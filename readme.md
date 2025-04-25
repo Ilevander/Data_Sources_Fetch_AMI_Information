@@ -10,7 +10,7 @@ Steps for implementation:
 
 Graphical Documentation:
 
-![1](https://github.com/user-attachments/assets/3fe8a199-43f6-44bd-bff9-d864d025d02c)
+![1](https://github.com/user-attachments/assets/d28750aa-87a2-4696-918e-d1cb3ce4fc4d)
 
 ![2](https://github.com/user-attachments/assets/4ab0a87a-b0d5-4689-8a1d-dca68c4f8807)
 
